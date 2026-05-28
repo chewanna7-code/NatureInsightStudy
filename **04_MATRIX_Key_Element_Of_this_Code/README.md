@@ -1,4 +1,4 @@
-# BRITE-NI Trade-Off Matrix and AHP Analysis
+# Trade-Off Matrix and AHP Analysis
 
 This folder contains the weighted trade-off matrix, Analytical Hierarchy Process (AHP) workflows and supporting literature descriptor frameworks developed for the dissertation project:
 
@@ -18,7 +18,6 @@ A recurring theme identified throughout the dissertation literature review was t
 * Stakeholder acceptance
 * Policy alignment
 * Long-term risk and uncertainty
-
 
 
 While NatureInsight® provides strategic optioneering and suitability mapping capabilities, the dissertation identified a gap between intervention identification and practical implementation-focused decision support.
@@ -42,7 +41,7 @@ BRITE-NI is proposed as a potential future extension to NatureInsight®, intende
 * Literature-informed benchmarking
 * Transparent ranking systems
 
-Rather than solely displaying spatial suitability outputs, the concept explores how decision-support tools could better support the complex prioritisation processes required during real-world NbS implementation. It begins with a cost constraint, ahead of NbS suggestions, as this was revealed as a huge dictator in implementation across NbS uptake.
+Rather than solely displaying spatial suitability outputs, the concept explores how decision-support tools could better support the complex prioritisation processes required during real-world NbS implementation. It begins with a cost constraint, ahead of NbS suggestions, as this was revealed as a huge dictator in implementation across NbS uptake. Primarily, it seeks to translate NatureInsight recomendations into implementation support, to enhance usability of NatureInsight- particulalry for those who trade-off evaluation is new to.
 
 ## Purpose of the Matrix
 
