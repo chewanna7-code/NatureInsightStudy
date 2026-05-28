@@ -144,20 +144,8 @@ This section represents a key extension of the dissertation beyond standard spat
 
 The workflows developed here demonstrate how strategic suitability tools such as NatureInsight® may be further refined to better support implementation-stage decision-making and stakeholder communication.
 
-## Tools and Libraries
-
-Primary tools used include:
-
-* Python
-* Google Colab
-* pandas
-* openpyxl
-* matplotlib
-* seaborn
-* numpy
 
 ## Notes
 
 The scoring systems and descriptor frameworks developed within this folder are exploratory and were created specifically for this dissertation research.
-
-The intention is not to present definitive universal intervention rankings, but rather to demonstrate a more transparent and adaptable framework for incorporating trade-offs and stakeholder priorities into NbS decision-support workflows.
+The intention is not to present definitive universal intervention rankings, but rather to demonstrate a moreadaptable framework for incorporating trade-offs and stakeholder priorities into NbS decision-support workflows.
