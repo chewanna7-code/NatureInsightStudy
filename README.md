@@ -24,6 +24,6 @@ Key themes explored include:
 
 ## Catchment Overview
 
-![Catchment Map](images/catchment_map.png)
+![Catchment Map](images/scalgo_Morpeth (15).jpg
 
 ---
