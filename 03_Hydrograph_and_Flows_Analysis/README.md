@@ -65,17 +65,17 @@ Observed gauge data and statistical flood estimation approaches were therefore u
 
 The notebook summarises NatureInsight outputs by subcatchment, allowing intervention opportunities to be compared across the catchment.
 
-![Subcatchment Summary](../images/subcatchment_code_example.png)
+![Subcatchment Summary](../images/Subcatchment_code_example.png)
 
 ### Example Output: Subcatchment Hydrographs
 
 Observed and modelled hydrographs can be compared between subcatchments to explore differences in hydrological response.
 
-![Subcatchment Hydrograph](../images/subcatchment_hydrograph_image.png)
+![Subcatchment Hydrograph](../images/Subcatchment_Hydrograph_image.png)
 
 ### Example Output: Intervention Distribution
 
 Pie charts are produced to visualise the relative contribution of intervention types within each subcatchment.
 
-![Subcatchment Pie Charts](../images/pie_charts_subcatchment.png)
+![Subcatchment Pie Charts](../images/Pie_charts_subcatchment.png)
 
