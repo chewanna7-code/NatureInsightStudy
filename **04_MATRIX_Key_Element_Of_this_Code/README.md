@@ -32,6 +32,7 @@ The figure demonstrates the outcome of the Italian Flag scoring notebook. The ex
 
 ![Italian Flag Classification](../images/italian_flags_all_interventions.png)
 
+The Italian Flag Assessment notebook can be accessed [here](italian_flags_visualizer.py).
 
 ## BRITE-NI Concept
 
