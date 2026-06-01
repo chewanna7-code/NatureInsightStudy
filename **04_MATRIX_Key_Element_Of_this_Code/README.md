@@ -24,6 +24,15 @@ While NatureInsight® provides strategic optioneering and suitability mapping ca
 
 This workflow was therefore developed to explore how NatureInsight® outputs could be extended into a more transparent trade-off evaluation framework.
 
+## Italian Flag 
+
+This approahc was adopted through literature review, as it demonstrates clearly where there are absences in natureInsight but also within literature and reports. The collection process is relatively lengthy, and the conclusions are arguably consolidated, which makes the matrix idea better for this scenario. However, the colouring proves effecgive, and has been integrated in ## Example Output
+
+The figure below compares all interventions using an Italian flag classification system, where green represents strong performance, white represents moderate performance or uncertainty, and red represents weaker performance.
+
+![Italian Flag Classification](../images/italian_flags_all_interventions.png)
+
+
 ## BRITE-NI Concept
 
 The matrix forms part of a conceptual framework proposed within this study:
@@ -142,6 +151,7 @@ This section represents a key extension of the dissertation beyond standard spat
 * The future development of NbS decision-support tools
 
 The workflows developed here demonstrate how strategic suitability tools such as NatureInsight® may be further refined to better support implementation-stage decision-making and stakeholder communication.
+
 
 
 ## Notes
